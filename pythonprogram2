@@ -1,0 +1,5 @@
+Kohili_Score =int(input("Enter Kohili Score : "))
+if (Kohili_Score >=80):
+    print("India Won !")
+else:
+    print("India Lost")
